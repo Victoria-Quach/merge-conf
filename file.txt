@@ -1,0 +1,5 @@
+Let's break this code! x4
+When you want to start a new feature, you create a new 
+branch off main using git branch new_branch . 
+Once created you can then use git checkout 
+new_branch to switch to that branch.
